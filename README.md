@@ -96,8 +96,32 @@ Z odpowiednią realizacją techniczną i uwzględnieniem powyższych wyzwań, Co
 
 
 
+## Jak to działa
+
+1. uruchamiamy aplikację
+
+2. wchodzimy do chat, gdzie są podpowiedzi dla akcji:
+- pobierz projekt z url
+- załaduj projekt z chmury
+- załaduj projekt z urządzenia
+  
+3. Konfiguracja
+W zależności od sytuacji i danych w projekcie może okazać sie konieczne podanie danych do API cloud
+- Login
+- Hasło / Token
+
+4. Start projektu
+Automatycznie po załadowaniu projektu pojawią sie opcje do uruchomienia lub edycji, domyślnie projekt zostanie uruchomiony w trybie run zaraz po załadowaniu
+
+5. Edycja
+W momencie załadowania można edytować projekt, wystarczy wybrać akcję edytuj na dole w menu lub u gory w oknie operacyjnym
+
+6. Udostępnianie
+Projekt można wysłać do chmury lub zapsiać lokalnie
 
 
 
-Jaka będzie najlepsza nazwa na aplikację do przetwarzania projektów w formie 3 okien w której jest Edytor, Chat do współrpacy z masyzną i ludźmi oraz struktura folderów i pliki zsynchronizowanej z chmurą: codialog
+
+---
+Codialog to aplikacja do przetwarzania projektów w formie 3 okien w której jest Edytor, Chat do współrpacy z maszyną i ludźmi oraz struktura folderów i pliki zsynchronizowanej z chmurą.
 
