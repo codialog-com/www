@@ -14,6 +14,24 @@ Interaktywne okna oraz menu pozwalają na szybki dostęp do potrzebnych danych i
 ![guiv6](https://github.com/user-attachments/assets/3880d91d-d1d1-4d2c-b596-b0f5b12e62ce)
 
 
+
+## Mesh Collaboration
+
+"Mesh Collaboration" komunikuje ideę wszechstronnego, połączonego środowiska współpracy, narzędzie Codialog tworzy sieć możliwości dla efektywnej pracy zespołowej i indywidualnej.
+
+### Znaczenie:
+- "Mesh" sugeruje sieć połączeń, co doskonale oddaje ideę zintegrowanego środowiska Codialog.
+- "Collaboration" podkreśla kluczowy aspekt narzędzia - wspólną pracę i komunikację.
+
+### Metafora:
+- Mesh (siatka) symbolizuje elastyczność i adaptacyjność systemu.
+- Sugeruje, że różne elementy (narzędzia, ludzie, projekty) są ze sobą płynnie połączone.
+
+
+
+
+
+
 ### Interfejs codialog
 
 interfejsu użytkownika GUI, który zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
