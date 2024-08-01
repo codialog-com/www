@@ -4,9 +4,9 @@
 
 
 Codialog jest kompleksowym rozwiązaniem, które może znacznie usprawnić pracę nad projektami, szczególnie w kontekście research-u i współpracy zespołowej. 
-Pozwala na obsługę projektów w uniifkowanym środowisku, niezależnie od systemu operacyjnego z dostępem do wszystkich potrzebnych narzędzi za pomocą komunikacji głosowo tekstowej tak jakbyś rozmawiał z ekspertem.
+Pozwala na obsługę projektów w unifikowanym środowisku, niezależnie od systemu operacyjnego z dostępem do wszystkich potrzebnych narzędzi za pomocą komunikacji głosowo tekstowej tak w rozmawie z ekspertem.
 
-Codialog to aplikacja instalowana na Twoim urządzeniu lub stronie www, komunikująca się z chmurą danych i chmurą obliczeniową.
+Codialog to aplikacja instalowana na Twoim urządzeniu (PC, server, smartphone) komunikująca się z chmurą danych i chmurą obliczeniową.
 
 Interaktywne okna oraz menu pozwalają na szybki dostęp do potrzebnych danych i funkcji, Okno chat pozwala na efektywną komunikację z zespołem i podłączonymi integracjami.
 
