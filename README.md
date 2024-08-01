@@ -10,9 +10,9 @@ Codialog to aplikacja instalowana na Twoim urządzeniu lub stronie www, komuniku
 
 Interaktywne okna oraz menu pozwalają na szybki dostęp do potrzebnych danych i funkcji, Okno chat pozwala na efektywną komunikację z zespołem i podłączonymi integracjami.
 
-![obraz](https://github.com/user-attachments/assets/0ea82fe2-3720-44ac-a4df-b0dad44dda21)
 
-+ [svgviewer](https://www.svgviewer.dev/s/imVPekka)
+![guiv6](https://github.com/user-attachments/assets/3880d91d-d1d1-4d2c-b596-b0f5b12e62ce)
+
 
 ### Interfejs codialog
 
